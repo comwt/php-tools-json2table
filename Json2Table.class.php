@@ -16,7 +16,7 @@
 // Purpose         : Builds and outputs an HTML table representation of
 //                   normalized JSON data at any (nested) depth.
 //
-// Usage           : require_once('php-tools/json2table.php');
+// Usage           : require_once('php-tools/Json2Table.class.php');
 //                   new Json2Table( "<json_data>" [,array(<comma_separated_property_list>)] );
 //
 // Example         : new Json2Table( $myJsonData, array('TITLE'=>'My Data','DEBUG_TF'=>1,'DEBUG_COLOR'=>'blue') );
